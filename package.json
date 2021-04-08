@@ -1,0 +1,43 @@
+{
+  "name": "covid-19-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "dev": "react-native run-android",
+    "build": "npm run clean && react-native run-android --variant=release",
+    "clean": "cd android && gradlew clean",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/material-bottom-tabs": "^5.2.12",
+    "@react-navigation/native": "^5.6.1",
+    "@react-navigation/stack": "^5.6.2",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-paper": "^3.10.1",
+    "react-native-raw-bottom-sheet": "^2.2.0",
+    "react-native-reanimated": "^1.9.0",
+    "react-native-safe-area-context": "^3.0.7",
+    "react-native-screens": "^2.9.0",
+    "react-native-svg": "^12.1.0",
+    "react-native-svg-charts": "^5.4.0",
+    "react-native-vector-icons": "^6.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.10.4",
+    "@babel/runtime": "7.10.4",
+    "@react-native-community/eslint-config": "0.0.5",
+    "babel-jest": "24.9.0",
+    "eslint": "6.8.0",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.56.4",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
