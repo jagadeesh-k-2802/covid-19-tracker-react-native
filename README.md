@@ -2,7 +2,7 @@
 
 Covid 19 Tracker Developed Using React Native.
 
-![![Screenshot Of The App]())](./screenshots/home.jpg)
+[<img src="./screenshots/home.jpg" width="250"/>](/screenshots/home.jpg)
 
 ### Credits
 * API: https://coronavirus-19-api.herokuapp.com
