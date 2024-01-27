@@ -2,6 +2,13 @@
 
 Covid 19 Tracker Developed Using React Native.
 
+### Features
+- Global Statistics
+- Country Wise Reports
+- Continent Wise Reports
+- Prevention, Precautions and Symptoms
+
+
 [<img src="./screenshots/home.jpg" width="250"/>](/screenshots/home.jpg)
 [<img src="./screenshots/search.jpg" width="250"/>](/screenshots/search.jpg)
 [<img src="./screenshots/prevention.jpg" width="250"/>](/screenshots/prevention.jpg)
