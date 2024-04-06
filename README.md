@@ -1,6 +1,7 @@
 # Covid 19 Tracker React Native 🦠
 
-Covid 19 Tracker Developed Using React Native.
+<img src="https://github.com/jagadeesh-k-2802/covid-19-tracker-react-native/assets/63912668/15126ff5-e6de-4189-93dc-6aaffcc9aaba" width="750" />
+<br />
 
 ## Features 📲
 - Global Statistics
